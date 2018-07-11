@@ -14,7 +14,7 @@ end
 puts STUDENT_NAMES[0]
 
 def fourth_student_by_index
-  
+  student_names.fourth
 end
 
 puts STUDENT_NAMES[3]
