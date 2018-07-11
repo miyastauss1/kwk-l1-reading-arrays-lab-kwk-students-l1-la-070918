@@ -33,5 +33,12 @@ def last_student_by_method
 end
 
 def first_second_and_third_students
-  first_second_and_third_students
+  STUDENT_NAMES[0,1,2]
 end
+
+puts first_student_by_index
+puts fourth_student_by_index
+puts last_student_by_index
+puts first_student_by_method
+puts last_student_by_method
+puts first_second_and_third_students
